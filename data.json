@@ -1,0 +1,50 @@
+[
+    {
+        "BranchCode": "1015",
+        "SI_NO": "INV_JRRJRB000221808",
+        "CUT_OFF": "",
+        "SI_DATE": "2024-07-04 00:00:00",
+        "DR_NO": "",
+        "CustomerCode": "CC_0079345",
+        "CustomerName": "K&Z Store",
+        "REF_SINO": "",
+        "GROSS_AMT": "310.362375",
+        "DISC_AMT": "0",
+        "VAT_CODE": "",
+        "VAT_DESC": "",
+        "VAT_AMT": "35.443486",
+        "NET_AMT": "330.805861"
+    },
+    {
+        "BranchCode": "1015",
+        "SI_NO": "INV_JRRJRB000221809",
+        "CUT_OFF": "",
+        "SI_DATE": "2024-07-04 00:00:00",
+        "DR_NO": "",
+        "CustomerCode": "CC_0079345",
+        "CustomerName": "JR&R Distributors Inc",
+        "REF_SINO": "",
+        "GROSS_AMT": "341.714318",
+        "DISC_AMT": "0",
+        "VAT_CODE": "",
+        "VAT_DESC": "",
+        "VAT_AMT": "36.612249",
+        "NET_AMT": "330.805861"
+    },
+    {
+        "BranchCode": "1015",
+        "SI_NO": "INV_JRRJRB000221810",
+        "CUT_OFF": "",
+        "SI_DATE": "2024-07-04 00:00:00",
+        "DR_NO": "",
+        "CustomerCode": "CC_0079345",
+        "CustomerName": "JR&R Distributors Inc",
+        "REF_SINO": "",
+        "GROSS_AMT": "1750.675464",
+        "DISC_AMT": "0",
+        "VAT_CODE": "",
+        "VAT_DESC": "",
+        "VAT_AMT": "199.182413",
+        "NET_AMT": "1859.035857"
+    }
+]
