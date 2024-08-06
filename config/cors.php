@@ -21,6 +21,8 @@ return [
 
     'allowed_origins' => ['https://naysaapproval.vercel.app'],
 
+    'Access-Control-Allow-Origin' =>[],
+
     'allowed_origins_patterns' => [],
 
     'allowed_headers' => ['*'],
