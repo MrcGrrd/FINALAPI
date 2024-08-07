@@ -3,7 +3,7 @@
 return [
     'paths' => ['api/*'],
     'allowed_methods' => ['*'],
-    'allowed_origins' => ['https://naysaapproval.vercel.app'],
+    'allowed_origins' => ['https://192.168.1.10'],
     'allowed_origins_patterns' => [],
     'allowed_headers' => ['*'],
     'exposed_headers' => [],
